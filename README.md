@@ -1,18 +1,10 @@
-# 字音字形出題器
+# 字音字形出題器｜內建題庫版
 
-[開啟字音字形出題器](https://chenzzii.github.io/zhuyin-exam-generator/)
+下載此分支的 index.html，使用 Edge 或 Chrome 開啟即可出題。HTML 內含題庫，可離線使用。
 
-依國小教科書版本、年級及學期抽題，下載正反面試卷與同卷號的教師解答。支援 Word、PDF、A4、B4（JIS）和 A3，也可按課瀏覽及下載語詞表。
-
-## 第一次使用
-
-1. 下載中央研究院大腦與語言實驗室的生字表，以及教育部《國語辭典簡編本》的文字資料庫。用網站上的兩個下載連結取得原始檔即可。
-2. 在出題器選取生字表 XLSX 和辭典 ZIP（或解壓後的 XLSX），按「載入並開始出題」。兩份檔案由瀏覽器在自己的裝置上讀取。
-3. 選擇出題範圍及模式，再下載學生試卷和教師解答。
+程式支援按教科書版本、截止年級及學期抽題，並匯出 Word、PDF 試卷和同卷號的教師解答。可選字音字形各 50 題、只考字音 100 題、只考字形 100 題，或字音字形各 100 題。
 
 ## 資料來源
 
-- [中央研究院大腦與語言實驗室生字表](https://ball.ling.sinica.edu.tw/brain/edu/radical.html)
-- [教育部《國語辭典簡編本》及資料下載](https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/dict_concised_download.html)
-
-這是靜態網站，入口為 index.html。準備好的題庫會儲存在此瀏覽器以供下次使用。
+- [中央研究院大腦與語言實驗室生字表字詞資料庫，20260723 版](https://ball.ling.sinica.edu.tw/brain/edu/radical.html)
+- [教育部《國語辭典簡編本》文字資料庫，115 年 9 月版](https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/dict_concised_download.html)，[公眾授權使用說明](https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/conciseddict_10312.pdf)
