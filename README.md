@@ -1,5 +1,7 @@
 # 字音字形出題器｜內建題庫版
 
+[直接在線上開啟內建題庫版](https://chenzzii.github.io/zhuyin-exam-generator/embedded-bank/)
+
 下載此分支的 index.html，使用 Edge 或 Chrome 開啟即可出題。HTML 內含題庫，可離線使用。
 
 程式支援按教科書版本、截止年級及學期抽題，並匯出 Word、PDF 試卷和同卷號的教師解答。可選字音字形各 50 題、只考字音 100 題、只考字形 100 題，或字音字形各 100 題。
